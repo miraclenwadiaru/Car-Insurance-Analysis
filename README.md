@@ -16,4 +16,6 @@ Employed to create a dashboard for the operational team. Google Data Studio faci
 
 ## For the Operational Team
 ![Operational Team](https://github.com/miraclenwadiaru/Car-Insurance-Analysis/assets/128008498/8d8f37e2-79a7-411d-af31-138480775e23)
- 
+
+ ## For the Upper Management
+ ![Upper Management Dashboard](https://github.com/miraclenwadiaru/Car-Insurance-Analysis/assets/128008498/5c15ae65-f9d3-4d25-8b24-480e96a929f8)
