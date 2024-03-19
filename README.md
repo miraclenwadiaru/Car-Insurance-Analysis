@@ -11,7 +11,7 @@ The aim is to craft an insightful dashboard to cater to two distinct audiences, 
 Used for storing and managing the car insurance dataset efficiently. It enables fast querying and analysis of large datasets.
 ## Tableau
 Utilized for visualizing and analyzing data for upper management. Tableau's intuitive interface allows for the creation of insightful dashboards and reports.
-## Google Data Studio:
+## Google Data Studio
 Employed to create a dashboard for the operational team. Google Data Studio facilitates the creation of interactive and collaborative reports that can be easily shared and accessed.
 
 
